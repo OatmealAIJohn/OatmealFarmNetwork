@@ -41,6 +41,7 @@ const About = () => {
             <p className="mb-4">
               The <strong>Oatmeal Farm Network</strong> was built for this new era. We combine a vibrant, connected community with the revolutionary power of <strong>Oatmeal AI</strong> to give you an unmatched advantage. 
             </p>
+
             <h2 className="text-2xl font-bold mt-8 mb-4">The Oatmeal Advantage: AI-Powered Farming</h2>
             <p className="mb-4">
               Stop guessing and start knowing. Our network is exclusively powered by <strong>Oatmeal AI</strong>, delivering intelligent agents that analyze data, offer predictive insights, and help streamline your entire operation. 
